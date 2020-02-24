@@ -1,0 +1,31 @@
+_repo: Orkney-and-Shetland_61416
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Heddle, John George Flett Moodie
+    aliases:
+    - Heddle, J. G. F. Moodie
+    - Heddle, John George Fleet Moodie
+    birthdate: 1872
+    gutenberg_agent_id: '51414'
+    url: http://www.gutenberg.org/2009/agents/51414
+  - agent_name: Mainland, T.
+    gutenberg_agent_id: '51415'
+    url: http://www.gutenberg.org/2009/agents/51415
+description: ''
+gutenberg_issued: '2020-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61416'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Cambridge county geographies
+subjects:
+- !lcsh 'Shetland (Scotland) -- Description and travel'
+- !lcc 'DA'
+- !lcsh 'Orkney (Scotland) -- Description and travel'
+- GITenberg
+title: Orkney and Shetland
+url: http://www.gutenberg.org/ebooks/61416
